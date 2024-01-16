@@ -11,3 +11,5 @@ Database -
 
 To check the database column types -> DESCRIBE pdf_documents;
 
+To check the max allowed packets -> SHOW VARIABLES LIKE 'max_allowed_packet';
+
